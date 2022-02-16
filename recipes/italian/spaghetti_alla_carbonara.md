@@ -37,8 +37,6 @@ The ingredients and their amounts for one person are the following
 
 ![](../../img/spaghetti_alla_carbonara.jpg)
 
-## Notes
-
 [^1]: Bronze extruded pasta, in contrast to teflon extruded pasta, releases more starch when boiled, which will help in any emulsion and make your sauces more creamy. It also has a rougher texture and sauces adhere better to it.
 [^2]: I personally like to use 20g of parmigiano and 10g of pecorino, but sometimes I don't feel like buying pecorino and I use simply 30g of parmigiano.
 [^3]: This is a good size to achieve a soft interior while maintaining a crunchy and caramelized crust. 
