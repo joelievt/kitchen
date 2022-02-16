@@ -35,7 +35,7 @@ The ingredients and their amounts for one person are the following
 3. Put a bit of grated parmigiano and black pepper on top
 4. *Buon appetito!*
 
-![](spaghetti_alla_carbonara.jpg)
+![](../../img/spaghetti_alla_carbonara.jpg)
 
 ## Notes
 
